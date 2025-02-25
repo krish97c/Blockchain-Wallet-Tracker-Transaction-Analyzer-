@@ -1,0 +1,16 @@
+{
+    "0xCB0DBbEC6B07514F8020d2329740cD252782A11C": {
+        "frequent_small_trades": 0,
+        "repeated_token_trades": {},
+        "large_spends": 0,
+        "is_demo": false
+    },
+    "bc1qed9ef3x4xx7ahacmh3ylp7ww7zgjztvqxznsedwrky27t00h6uxq2k2d9x": {
+        "frequent_small_trades": 1,
+        "repeated_token_trades": {
+            "Native": 1
+        },
+        "large_spends": 0,
+        "is_demo": false
+    }
+}
